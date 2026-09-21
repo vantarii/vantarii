@@ -45,3 +45,15 @@ Learn → Build → Break → Fix → Document → Repeat
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+---
+
+## 🧪 My Labs
+
+| Lab | What I practiced | Status |
+|---|---|---|
+| 🐧 [Ubuntu + OpenSSH](https://github.com/vantarii/ubuntu-installation-and-openssh) | Linux installation, SSH & system configuration | 🟢 Completed |
+| 🌐 [Web Project](https://github.com/vantarii/site_gaming) | HTML & CSS | 🟢 Completed |
+| 💻 [PHP Forum](https://github.com/vantarii/Forum-en-php) | PHP fundamentals | 🟡 Learning |
+| 🧬 [ImmyBloom](https://github.com/vantarii/ImmyBloom) | Web, writing & content management | 🟢 Active |
