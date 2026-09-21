@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vantarii-header.png" alt="Vantarii GitHub Header" width="100%">
+  <img src="vantarii-header.png" alt="Vantarii GitHub Header" width="100%">
 </p>
 
 <!--
