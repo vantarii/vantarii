@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/vantarii-header.png" alt="Vantarii GitHub Header" width="100%">
+</p>
 
 <!--
 **vantarii/vantarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
